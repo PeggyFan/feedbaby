@@ -6,6 +6,6 @@ FeedBaby allows you to download all the data you've entered. So I decided to cre
 
 I'm sharing some screenshots of the "report" below!
 
-<img src="feedbaby_report1.png" alt="Flowers in Chania">
 <img src="feedbaby_report2.png" alt="Flowers in Chania">
+<img src="feedbaby_report1.png" alt="Flowers in Chania">
 <img src="feedbaby_report3.png" alt="Flowers in Chania">

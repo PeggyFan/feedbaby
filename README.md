@@ -8,6 +8,16 @@ I'm sharing some screenshots of the "report" below.
 
 Full HTML can be downloaded in this repo (file was too large to be rendered here).
 
-<img src="feedbaby_report2.png" alt="Flowers in Chania">
 <img src="feedbaby_report1.png" alt="Flowers in Chania">
+<img src="feedbaby_report2.png" alt="Flowers in Chania">
 <img src="feedbaby_report3.png" alt="Flowers in Chania">
+<img src="feedbaby_report4.png" alt="Flowers in Chania">
+<img src="feedbaby_report5.png" alt="Flowers in Chania">
+<img src="feedbaby_report6.png" alt="Flowers in Chania">
+<img src="feedbaby_report7.png" alt="Flowers in Chania">
+<img src="feedbaby_report8.png" alt="Flowers in Chania">
+<img src="feedbaby_report9.png" alt="Flowers in Chania">
+<img src="feedbaby_report10.png" alt="Flowers in Chania">
+<img src="feedbaby_report11.png" alt="Flowers in Chania">
+<img src="feedbaby_report12.png" alt="Flowers in Chania">
+
